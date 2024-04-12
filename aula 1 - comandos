@@ -1,0 +1,4 @@
+dir+enter - mostra todos os arquivos e pastas existentes no diretório atual
+cd+nomediretorio+enter - navega para um diretório específico
+. - diretório atual
+.. - diretório anterior
