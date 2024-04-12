@@ -19,9 +19,7 @@ a) cd .. cd Downloads
 
 ---
 
-Útil para visualizar a estrutura de um projeto, o comando tree mostra as pastas e subpastas do diretório organizadas em forma de árvore.
-
----
+Comando tree - útil para visualizar a estrutura de um projeto, o comando tree mostra as pastas e subpastas do diretório organizadas em forma de árvore.
 
 Comando mkdir - cria um diretório
 
