@@ -1,0 +1,13 @@
+Comando echo - exibe uma mensagem no terminal
+Comando pause - pausa e aguarda interação
+Comando tar - extrai e lista itens de arquivos compactados
+Tar /? Informações mais detalhadas sobre o comando
+@echo off - remove a exbição do comando echo
+
+0: entrada
+1: saída
+2: saída de erro
+
+IF %ERRORLEVEL% NEQ 0 (echo "Erro na execução do script") - caso seja encontrado erro, imprime a mensagem
+NEQ = Not EQual
+Quando %ERRORLEVEL% = 0, indica que a execução foi bem sucedida.
