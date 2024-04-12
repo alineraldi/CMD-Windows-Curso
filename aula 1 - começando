@@ -1,0 +1,46 @@
+dir+enter - mostra todos os arquivos e pastas existentes no diretório atual
+cd+nomediretorio+enter - navega para um diretório específico
+. - diretório atual
+.. - diretório anterior
+
+---
+
+Comando "c /" leva até o diretório raiz
+
+---
+
+Camila está organizando as fotos da viagem que acabou de baixar da internet. Tais fotos estão na pasta Download de seu computador, uma das pastas dentro do diretório C:\Users\Camila.
+
+Por um descuido, ela acabou acessando a pasta Desktop.
+
+Assinale a alternativa que contém a sequência de comandos correta para acessar o diretório Downloads a partir de onde ela se encontra:
+
+a) cd .. cd Downloads
+
+---
+
+Útil para visualizar a estrutura de um projeto, o comando tree mostra as pastas e subpastas do diretório organizadas em forma de árvore.
+
+---
+
+Comando mkdir - cria um diretório
+
+Comando type - exibe o conteúdo de arquivos de texto
+
+Comando move - move os objetos
+
+Tecla Tab - Autocomplete
+
+Comando more - exibe o conteúdo de arquivos de texto como o type, mas por páginas
+
+Comando copy - copia um arquivo (copy arquivo destino)
+
+Comando rename - renomeia um arquivo ou pasta
+
+Comando del - deleta um arquivo ou pasta
+
+Comando CLS - Clear Screen
+
+Comando find - encontra uma sequência de texto em arquivo (find 'palavra' exemplo.txt)
+
+Comando exit - fecha o cmd
